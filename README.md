@@ -25,7 +25,6 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/gaston010)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gaston010)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gaston010)](https://github.com/anuraghazra/github-readme-stats)
 <details>
 <p align="center">
   <a href="https://github.com/gaston010">
@@ -37,13 +36,8 @@
   <a href="https://github.com/gaston010">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaston010&theme=transparent" />
   </a>
-  <a href="https://github.com/gaston010">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaston010&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
 </p>
-
 </details>
-
 <p align="center">
   <a href="https://github.com/gaston010">
     <img src="https://komarev.com/ghpvc/?username=gaston010&color=blue&style=flat)" />
@@ -51,7 +45,7 @@
 </p>
 <!--
 
-- 🔭 I’m currently working on ...Project integer for django on Alkemy-Bootcamp
+- 🔭 I’m currently working on ...Project in django on alkemy-bootcamp
 - 🌱 I’m currently learning ... Django and Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

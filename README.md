@@ -36,7 +36,7 @@
   <a href="https://github.com/gaston010">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaston010&theme=transparent" />
   </a>
-    <a href="https://github.com/gaston010"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaston010&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" /> </a>
+    <a href="https://github.com/gaston010"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaston010&langs_count=10&card_width=699&hide_border=true&theme=transparent" /> </a>
 </p>
 </details>
 <p align="center">

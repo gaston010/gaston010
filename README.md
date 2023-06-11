@@ -25,7 +25,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/gaston010)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gaston010)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gaston010)](https://github.com/anuraghazra/github-readme-stats)
 <details>
 <p align="center">
   <a href="https://github.com/gaston010">
@@ -41,7 +41,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaston010&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-    [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 <p align="center">

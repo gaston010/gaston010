@@ -13,7 +13,6 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gaston010)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/gaston010)
 
 
 

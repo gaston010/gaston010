@@ -19,8 +19,7 @@
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/gaston010)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/gaston010)
-[![HTML5](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://hub.docker.com/u/gaston010)
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)(https://hub.docker.com/u/gaston010)]
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://hub.docker.com/u/gaston010)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/gaston010)
 
 ### OS

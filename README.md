@@ -4,7 +4,7 @@
     <b>Bienvenidos :D!</b><br><br>
     <i>
         Hola!, Soy Gaston(Guille).<br>
-        Actualemte estoy aprendiendo Python y Django , Flask.<br>
+        Actualemte estoy aprendiendo Python ,Django y Flask.<br>
         Abierto a colaborar en proyectos innovadores e interesantes.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gaston010gv">

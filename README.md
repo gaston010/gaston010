@@ -3,9 +3,7 @@
 <p align="center">
     <b>Bienvenidos :D!</b><br><br>
     <i>
-        Hola!, Soy Gaston(Guille).<br>
-        Actualemte estoy aprendiendo Python ,Django y Flask.<br>
-        Abierto a colaborar en proyectos innovadores e interesantes.<br>
+        Hi!!
     </i><br>
     <a href="https://www.linkedin.com/in/gaston010gv">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
